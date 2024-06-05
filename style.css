@@ -144,3 +144,8 @@ p[id="down-legend"] {
     cursor: pointer;
     text-decoration: underline;
 }
+
+a[id="author"]{
+    color: rgb(222, 222, 145);
+    font-weight: 600;
+}
