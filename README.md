@@ -1,1 +1,1 @@
-See how it looks like in <href="https://codepen.io/stagnant09/pen/KKOaXpJ">Codepen</href>.
+See how it looks like in [Codepen](https://codepen.io/stagnant09/pen/KKOaXpJ).
